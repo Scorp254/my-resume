@@ -9,3 +9,6 @@ div{color: black;
     h3{text-align: left;}
     img{border: 5px solid blue;}
     ol{text-align: left;}
+    #contact{background-color:darkgreen;height: 5px;width: 20px;padding:5px ;}
+    #hobbies{background-color: darkgreen;height: 5px;width: 20px;padding:5px ;background-blend-mode: hard-light;;}
+    footer{text-align: center;text-decoration: underline;}
