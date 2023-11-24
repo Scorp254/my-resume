@@ -1,0 +1,11 @@
+
+html{background-color: antiquewhite;font-family: 'Libre Baskerville', serif;text-align: center;}
+div{color: black;
+    font-family: 'Libre Baskerville', serif;
+    ;font-size: larger;}
+    h2{color: blue;}
+    h3{font-size: larger;font-weight: 900;}
+    p{font-size: small;font-weight: lighter;text-align: left;}
+    h3{text-align: left;}
+    img{border: 5px solid blue;}
+    ol{text-align: left;}
